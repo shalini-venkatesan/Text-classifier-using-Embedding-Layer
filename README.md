@@ -300,7 +300,8 @@ print(f"Shape of the validation batch: {validation_batch[0].shape}")
 
 ```
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e7393d8f-b420-409a-9fca-77a1e407c0f6)
+
 
 
 ### Create Model:
